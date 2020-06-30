@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Luke Bushell</title>
-    <link>https://example.com/tags/</link>
+    <link>https://luk390.github.io/Data_Science_Portfolio/tags/</link>
     <description>Recent content in Tags on Luke Bushell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luk390.github.io/Data_Science_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
